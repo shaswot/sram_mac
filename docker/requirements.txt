@@ -1,0 +1,13 @@
+ipywidgets 
+jupyterlab 
+matplotlib 
+pandas
+seaborn
+sympy
+scipy
+pyyaml
+natsort
+scikit-learn
+autopep8
+ipynbname
+gitpython
