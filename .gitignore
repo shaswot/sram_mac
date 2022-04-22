@@ -3,6 +3,9 @@
 .ipynb_checkpoints/
 .idea/
 
+# Data
+**/mnist_data
+
 # Tensorboard Logs
 /runs
 
